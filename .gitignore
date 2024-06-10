@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# VSCode files
+**/.vscode/*
+
+# Pio files
+**/.pio/
